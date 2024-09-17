@@ -1,4 +1,4 @@
-# Naveen raj - AWS Resume
+# Dheeraj Sharma - AWS Resume
 ## About The Project
 This is my Cloud Resume Challenge built on AWS. It's a static website hosted on AWS S3 bucket, with a visitor counter built on AWS Lambda functions. The website is built with HTML, CSS, and JavaScript. The visitor counter is built with Python and AWS lambda functions. 
 
@@ -6,7 +6,7 @@ This is my Cloud Resume Challenge built on AWS. It's a static website hosted on 
 
 ## Demo
 
-[View it live here](https://resume.naveenraj.net)
+[View it live here](https://resume.Dheeraj.net)
 
 ## Structure
 
@@ -28,4 +28,4 @@ This is my Cloud Resume Challenge built on AWS. It's a static website hosted on 
 - Dynamo DB
 
 ## Blog
-- https://naveend3v.medium.com/my-cloud-resume-challenge-project-6f726ed58d60
+- https://Dheerajd3v.medium.com/my-cloud-resume-challenge-project-6f726ed58d60
